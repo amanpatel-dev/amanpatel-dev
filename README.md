@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github.com/amanpatel-dev/Image/blob/main/image/peakpx.jpg?raw=true)
+![](https://github.com/amanpatel-dev/book_challengers/blob/main/peakpx.jpg?raw=true)
 
 
 
