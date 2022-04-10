@@ -4,7 +4,7 @@
 
 
 
-- 👋 Hi, I’m Aman chaudhary
+- 👋 Hi, I’m Aman Patel
 
 - 👀 I’m interested in creating fantastic 🕸🕸websites
 
