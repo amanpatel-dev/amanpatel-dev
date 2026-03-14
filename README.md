@@ -4,16 +4,14 @@
 
 
 
-- 👋 Hi, I’m Aman Patel
+- 👋 Hi, I’m Aman Chaudhary
 
-- 👀 I’m interested in creating fantastic 🕸🕸websites
+- 👀 I’m interested WebDev X AI/ML
 
-- 🌱 I’m currently learning react 
+- 🌱 I’m currently learning ML
 
-- 💞️ I’m looking to collaborate on Javascript projects
+- 💞️ I’m looking to collaborate on JavaScript projects
 
 - 📫 How to reach me https://www.linkedin.com/in/amanpatel-dev/
 
-- 😏 Tweets about coding https://twitter.com/aman_patel_dev
 
-- ✨ Creating cool stuff on https://codepen.io/amanpatel-dev
